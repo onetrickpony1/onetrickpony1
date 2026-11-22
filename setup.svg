@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="212" viewBox="0 0 480 212" role="img" aria-label="My setup">
+<style>
+  .bg { fill: #ffffff; stroke: #d0d7de; } .t1 { fill: #1f2328; } .t2 { fill: #59636e; } .acc { fill: #d97757; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; stroke: #30363d; } .t1 { fill: #e6edf3; } .t2 { fill: #9198a1; } .acc { fill: #e08a6c; }
+  }
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+</style>
+<rect class="bg" x="0.5" y="0.5" width="479" height="211" rx="8"/>
+<rect class="acc" x="24" y="19" width="3" height="14" rx="1.5"/>
+<text class="t2" x="34" y="30" font-size="12">Setup</text>
+<text class="t2" x="24" y="62" font-size="12">OS</text><text class="t1" x="104" y="62" font-size="13">Arch Linux · KDE Plasma 6.8 (Wayland)</text>
+<text class="t2" x="24" y="86" font-size="12">CPU</text><text class="t1" x="104" y="86" font-size="13">AMD Ryzen 7 7800X3D</text>
+<text class="t2" x="24" y="110" font-size="12">GPU</text><text class="t1" x="104" y="110" font-size="13">NVIDIA GeForce RTX 5080</text>
+<text class="t2" x="24" y="134" font-size="12">RAM</text><text class="t1" x="104" y="134" font-size="13">32 GB</text>
+<text class="t2" x="24" y="158" font-size="12">Displays</text><text class="t1" x="104" y="158" font-size="13">32&quot; 1440p 180 Hz + 22&quot; 1080p 60 Hz</text>
+<text class="t2" x="24" y="182" font-size="12">Shell</text><text class="t1" x="104" y="182" font-size="13">fish</text>
+</svg>
