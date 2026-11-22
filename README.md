@@ -1,4 +1,4 @@
-### Hi, I'm onetrickpony1
+### Hi, I'm Matthew
 
 <img src="usage.svg" alt="AI coding tokens used with Claude Code and Codex" width="480">
 
